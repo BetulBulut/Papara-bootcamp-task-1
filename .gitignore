@@ -1,0 +1,42 @@
+# VSCode çalışma alanı dosyaları
+.vscode/
+
+# Windows sistem dosyaları
+Thumbs.db
+Desktop.ini
+
+# Windows Geçici Dosyalar
+$RECYCLE.BIN/
+
+# Visual Studio Build dosyaları
+bin/
+obj/
+
+# NuGet paketleri
+packages/
+
+# Paketleme ve dağıtım dosyaları
+*.nupkg
+*.snupkg
+
+# Log dosyaları
+*.log
+
+# Geçici dosyalar
+*.bak
+*.swp
+*.tmp
+
+# ReSharper ve JetBrains Rider dosyaları
+.idea/
+.rehresharper/
+
+# IntelliJ IDEA geçici dosyalar
+.idea/
+
+# .NET Core ve ASP.NET Core log dosyaları
+*.zip
+
+# Kullanıcı ayarları dosyaları (Visual Studio, VSCode vb.)
+*.user
+*.suo
